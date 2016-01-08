@@ -27,8 +27,8 @@ layout: default
   	</a>
   </p>
 
-  {% for p in site.data.datapackage.contributors %}
   <strong property="rdfs:label">Contributors</strong><br />
+  {% for p in site.data.datapackage.contributors %}
 	   <p property="dct:contributor" resource="{{ p.web }}" class="contributor">
         <a href="{{ p.web }}" about="{{ p.web }}" property="foaf:homepage">
                 <img property="foaf:depiction" src="{{ p.logo }}" alt="Contributor logo"></img>

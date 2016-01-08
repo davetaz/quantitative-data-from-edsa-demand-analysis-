@@ -28,6 +28,12 @@ layout: default
 
   </p>
 
+  {% if site.certificate %}
+         <strong property="rdfs:label">Open Data Certificate</strong><br />
+  	     <script src="{{ site.certificate }}/badge.js"></script>
+         <br/>
+  {% endif %}
+
   <p property="dct:publisher" resource="{{ site.data.datapackage.publishers.first['web'] }}">
   	<strong property="rdfs:label">Publisher</strong><br />
   	<a href="{{ site.data.datapackage.publishers.first.['web'] }}" about="{{ site.data.datapackage.publishers.first['web'] }}" property="foaf:homepage">
@@ -112,3 +118,8 @@ layout: default
     <p class="lastUpdate text-right">Last update: {{ site.time | date: '%Y-%m-%d at %H:%M' }}</p>
 
   </div>
+  <style>
+  .open-data-certificate ul.open-data-certificate-details {
+  display: inline-block;
+}
+</style>

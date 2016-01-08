@@ -21,6 +21,7 @@ layout: default
       <a href="{{ site.data.datapackage.licenses.first['url'] }}"><span property="dct:title">{{ site.data.datapackage.licenses.first['title'] }}</span></a>
     </span>
     {% if site.data.datapackage.licenses.first['text'] %}
+      <br/>
       <strong property="rdfs:label">Attribution Statement</strong><br />
       <span property="">{{ site.data.datapackage.licenses.first['text'] }}</span>
     {% endif %}

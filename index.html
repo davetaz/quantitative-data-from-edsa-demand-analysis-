@@ -50,6 +50,20 @@ layout: default
   	<span property="dcat:accrualPeriodicity">{{ site.update_frequency }}</span>
   </p>
 
+  {% if site.data.datapackage['dct:spatial'] %}
+    <p>
+      <strong property="rdfs:label">Spatial coverage</strong><br />
+      <span property="dct:spatial">{{ site.data.datapackage['dct:spatial'] }}</span>
+    </p>
+  {% endif %}
+
+  {% if site.data.datapackage['dct:temporal'] %}
+    <p>
+      <strong property="rdfs:label">Temporal coverage</strong><br />
+      <span property="dct:temporal">{{ site.data.datapackage['dct:temporal'] }}</span>
+    </p>
+  {% endif %}
+
   <h2>Files</h2>
 
   <table class="table table-striped">

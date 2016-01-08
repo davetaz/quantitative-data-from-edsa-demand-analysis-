@@ -72,6 +72,12 @@
 		"mediatype": "text/csv",
 		"description": "Up-to-date version of all the EDSA Demand Analysis data (uncleaned)",
 		"path": "http://odi-edsa-data.herokuapp.com/data.php"
-	}
-	]
+	},
+	{
+		"url": "https://docs.google.com/document/d/1nXDYsyZVe95kdXVSK5UrUT-cOytasYOEELayQ99DLn0/edit?usp=sharing",
+		"name": "Documentation on data structure and columns",
+		"mediatype": "text/plain",
+		"description": "Documentation to accompany the available data including valid answers and ranges of answers for each question",
+		"path": "https://docs.google.com/document/d/1nXDYsyZVe95kdXVSK5UrUT-cOytasYOEELayQ99DLn0/edit?usp=sharing"
+	}]
 }

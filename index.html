@@ -28,12 +28,13 @@ layout: default
   </p>
 
   {% for p in site.data.datapackage.contributors %}
-	<p property="dct:contributor" resource="{{ p.web }}">
-        <strong property="rdfs:label">Contributor</strong><br />
+  <strong property="rdfs:label">Contributors</strong><br />
+	   <p property="dct:contributor" resource="{{ p.web }}" class="contributor">
         <a href="{{ p.web }}" about="{{ p.web }}" property="foaf:homepage">
-                <img property="foaf:depiction" src="{{ p.logo }}" alt="Contributor logo"></img><span property="foaf:name">{{ p.name }}</span>
+                <img property="foaf:depiction" src="{{ p.logo }}" alt="Contributor logo"></img>
+                <br/><span property="foaf:name">{{ p.name }}</span>
         </a>
-  </p>
+    </p>
   {% endfor %}
 
   <p>

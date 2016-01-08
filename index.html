@@ -83,7 +83,11 @@ layout: default
         <td property="dcat:title">{{ resource.name }}</td>
         <td property="dcat:format">{{ resource.mediatype }}</td>
         <td property="dcat:description">{{ resource.description }}</td>
-        <td><a href="{{ resource.path | split:"." | first }}.html"><i class="fa fa-search"></i> View</a></td>
+        {% if resource.mediatype == "text/csv" %}
+          <td><a href="{{ resource.path | split:"." | first }}.html"><i class="fa fa-search"></i> View</a></td>
+        {% else %}
+          <td></td>
+        {% endif %}
         <td><a href="{{ resource.path }}" property='dcat:accessURL'><i class="fa fa-cloud-download"></i> Download</a></td>
         {% if resource.mediatype == "text/csv" %}
          {% unless resource.path contains 'http' %}

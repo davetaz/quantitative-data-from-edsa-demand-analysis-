@@ -1,11 +1,20 @@
 {
 	"name": "quantitative-data-from-edsa-demand-analysis",
 	"datapackage-version": "",
-	"title": "Quantitative data from EDSA demand analysis  ",
+	"title": "Quantitative data from EDSA demand analysis",
 	"description": "This dataset provides the raw anonymised (quantitative) data from the EDSA demand analysis. This data has been gathered from interviews, focus groups and surveys performed with those who identify as data scientists and manages of data scientists in different sectors across Europe. \r\n\r\nThe coverage of the data includes level of current expertise of the individual or team (data scientist and manager respectively) in eight key areas. The dataset also includes the importance of the eight key areas as capabilities of a data scientist. Further the dataset includes a breakdown of key tools, technologies and training delivery methods required to enhance the skill set of data scientists across Europe. \r\n\r\nThe dataset forms part of the European Data Science Academy (EDSA) project which received funding from the European Unions's Horizon 2020 research and innovation programme under grant agreement No 643937. This three year project ran/runs from February 2015 to January 2018.",
 	"licenses": [{
 		"url": "https://creativecommons.org/licenses/by/4.0/",
-		"title": "Creative Commons Attribution 4.0"
+		"title": "Creative Commons Attribution 4.0",
+		"text": "Contains data from the European Data Science Academy project licensed under the Creative Commons Attribution 4.0 licence.",
+		"url": "http://edsa-project.eu"
+	}],
+	"copyright": [{
+		"notice": "This copyright to this dataset is held by The Open Data Institute. The dataset is made available to everyone to access, use and share under the Creative Commons Attribution 4.0 licence.",
+		"statement": "&copy; The Open Data Institute 2016",
+		"year": "2016",
+		"holder": "The Open Data Institute",
+		"url": "http://theodi.org"
 	}],
 	"publishers": [{
 		"name": "The Open Data Institute",

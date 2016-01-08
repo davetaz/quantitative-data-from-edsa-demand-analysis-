@@ -14,10 +14,17 @@ layout: default
   <p property="dct:description">{{ site.data.datapackage.description }}</p>
 
   <p property="dct:rights" resource="#rights" typeof="odrs:RightsStatement">
+    <strong property="">Copyright</strong><br/>
+    <a href="{{ site.data.datapackage.copyright.first['url'] }}"><span property="">{{ site.data.datapackage.copyright.first['statement'] }}</span></a><br/>
     <strong property="rdfs:label">License</strong><br />
     <span property="dct:license odrs:dataLicense odrs:contentLicense" resource="{{ site.data.datapackage.licenses.first['url'] }}">
       <a href="{{ site.data.datapackage.licenses.first['url'] }}"><span property="dct:title">{{ site.data.datapackage.licenses.first['title'] }}</span></a>
     </span>
+    {% if site.data.datapackage.licenses.first['text'] %}
+      <strong property="rdfs:label">Attribution Statement</strong><br />
+      <span property="">{{ site.data.datapackage.licenses.first['text'] }}</span>
+    {% endif %}
+
   </p>
 
   <p property="dct:publisher" resource="{{ site.data.datapackage.publishers.first['web'] }}">

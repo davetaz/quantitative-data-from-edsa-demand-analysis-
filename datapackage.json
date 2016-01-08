@@ -33,12 +33,12 @@
 	},
 	{
 		"name": "The University of Southampton",
-		"web": "http://southampton.ac.uk"
+		"web": "http://southampton.ac.uk",
 		"logo": "http://edsa-project.eu/edsa-data/uploads/2015/02/university-southampton.png"
 	},
 	{
 		"name": "Fraunhofer IAIS",
-		"web": "http://www.iais.fraunhofer.de/"
+		"web": "http://www.iais.fraunhofer.de/",
 		"logo": "http://edsa-project.eu/edsa-data/uploads/2015/02/fraunhofer-iais.png"
 	}
 	],

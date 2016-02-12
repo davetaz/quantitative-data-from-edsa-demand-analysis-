@@ -60,11 +60,11 @@
 	}
 	],
 	"resources": [{
-		"url": "http://davetaz.github.io/quantitative-data-from-edsa-demand-analysis-/data/2016-01.csv",
-		"name": "EDSA Demand Analysis - Quantitative Data (January 2016)",
+		"url": "http://davetaz.github.io/quantitative-data-from-edsa-demand-analysis-/data/2016-02.csv",
+		"name": "EDSA Demand Analysis - Quantitative Data (February 2016)",
 		"mediatype": "text/csv",
-		"description": "Monthly audited version of the EDSA data (January 2016).",
-		"path": "data/2016-01.csv"
+		"description": "Monthly audited version of the EDSA data (February 2016).",
+		"path": "data/2016-02.csv"
 	},
 	{
 		"url": "http://odi-edsa-data.herokuapp.com/data.php",

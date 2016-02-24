@@ -34,92 +34,40 @@ Slovenia,"Data and information systems",,"Data Scientist",,2,,1,3,2,3,2,1,,,,,,,
 Netherlands,Consultancy,Individual,"Data Scientist","R,AWS,Open Refine,ProM or Disco,Tableau,Javascript / JQuery",desirable,desirable,4,4,4,desirable,1,1,desirable,desirable,essential,essential,essential,desirable,desirable,essential,desirable,not_required,not_required,desirable,not_required,essential,desirable,desirable,essential,essential
 Italy,"Government and public sector","Large (corporation)","Data Scientist","AWS,Spark,Hadoop / MapReduce,MongoDB,R,Python,Javascript / JQuery,Java",2,2,2,4,1,1,2,2,desirable,essential,desirable,essential,desirable,desirable,not_required,essential,essential,not_required,essential,essential,not_required,desirable,desirable,desirable,essential,essential
 Italy,"Data and information systems","Large (corporation)",Manager,"visualisation,story telling",3,1,4,2,3,2,3,2,desirable,essential,not_required,desirable,desirable,not_required,not_required,essential,desirable,not_required,not_required,essential,not_required,desirable,desirable,desirable,essential,essential
-United%20Kingdom,,,Other,,,,,,,,,,,desirable,,essential,not_required,,,,,,,,,,,,,
 Belgium,"Scientific and market research","SME (10 to 250 employees)","Data Scientist","NoSQL / Cassandra,Python,R,Spark,Hadoop / MapReduce,Tableau,Qlik",desirable,desirable,desirable,2,2,2,2,2,desirable,desirable,desirable,essential,essential,essential,essential,essential,not_required,desirable,essential,essential,essential,essential,not_required,not_required,desirable,desirable
 Germany,"Accommodation and food services","Large (250+ employees)",Manager,"Javascript / JQuery,D3 / nvD3",,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,Other,"Javascript / JQuery",,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Education,"Large (250+ employees)","Data Scientist","Python,R",,,,,,3,,2,,,,,,essential,,desirable,not_required,,,essential,,essential,,,desirable,desirable
-Germany,,,Other,"z-scores,Apache Storm",,,,,,,,,,,,,,,,,,,,,,,,,,
 Latvia,Energy,"SME (10 to 250 employees)","Data Scientist","Javascript / JQuery,Apache Storm",,3,,,,,,,,essential,,,,,desirable,,,,,,,,,,,
-Austria,"Data and information systems",,"Data Scientist",,,,,,,,,,desirable,essential,desirable,essential,essential,desirable,essential,essential,,,,,,,,,,
 Austria,"Data and information systems",,"Data Scientist",,,,,,,,,,desirable,essential,desirable,essential,essential,desirable,essential,essential,,,,,,,,,,
 Austria,"Professional services",,"Data Scientist",,3,2,,3,3,,2,4,desirable,essential,,essential,essential,,essential,essential,,,,,,,,,,
 Austria,"Professional services",,"Data Scientist",,,,,,,,,,desirable,essential,desirable,essential,essential,desirable,essential,essential,,,,,,,,,,
-Ireland,It,"SME (10 to 250 employees)","Data Scientist",,,,,,,,,,desirable,desirable,desirable,essential,essential,essential,desirable,essential,,,,,,,,,,
-Netherlands,Advertising,,"Data Scientist","R,Python,Scala,AWS,Apache Spark,D3 / nvD3,SQL",2,2,4,4,2,3,2,3,desirable,essential,essential,essential,essential,desirable,desirable,desirable,not_required,not_required,essential,desirable,essential,not_required,not_required,not_required,desirable,desirable
-"United Kingdom","Consumer services","SME (10 to 250 employees)","Data Scientist",,,,,,,,,,desirable,desirable,desirable,essential,essential,essential,essential,not_required,,,,,,,,,,
 "United Kingdom","Scientific and market research","SME (10 to 250 employees)","Data Scientist","R,Python,hive",,,2,,3,3,2,,desirable,desirable,essential,desirable,essential,essential,essential,desirable,,,,,,,,,,
 "United Kingdom","Arts recreation and entertainment","SME (10 to 250 employees)","Data Scientist","NoSQL / Cassandra,Hadoop / MapReduce,Javascript / JQuery,Java",,desirable,,,2,,,desirable,,essential,,,desirable,,,desirable,,,,,,,,,,
 Ireland,It,"SME (10 to 250 employees)","Data Scientist",,,,,,,,,,desirable,desirable,not_required,essential,essential,essential,desirable,essential,,,,,,,,,,
 Sweden,"Data and information systems","Large (250+ employees)","Data Scientist","R,Python,AWS,ProM or Disco,Spark",,,,4,,,3,3,desirable,desirable,desirable,essential,desirable,desirable,essential,essential,,,desirable,desirable,,,,,,desirable
-Finland,"Data and information systems","Large (250+ employees)","Data Scientist","R,Python,Hadoop / MapReduce,Spark",,,4,3,3,,3,,desirable,desirable,essential,essential,essential,desirable,essential,not_required,not_required,desirable,essential,desirable,essential,essential,not_required,not_required,desirable,desirable
-France,,"Micro (<10 employees)",Manager,z-scores,,,,3,,,,,,,,not_required,,,,,,,,,,,,,,desirable
 "United Kingdom","Scientific and market research","Micro (<10 employees)",Manager,"R,z-scores,Javascript / JQuery,Python,D3 / nvD3,Java",3,1,3,2,2,3,2,4,desirable,desirable,desirable,essential,essential,desirable,desirable,essential,desirable,essential,,desirable,essential,essential,desirable,not_required,,desirable
-,,,Manager,,,,,,,,,,,essential,,desirable,not_required,,,,,,,,,,,,,
 "United Kingdom",Education,"Micro (<10 employees)","Data Scientist",,3,2,2,3,3,3,3,3,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
-"United Kingdom",Education,"Micro (<10 employees)","Data Scientist",,,,,,,,,,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
-"United Kingdom",Education,"Micro (<10 employees)","Data Scientist",,,,,,,,,,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
 "United Kingdom",Education,"Micro (<10 employees)","Data Scientist",,,,,,,,,,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
 "United Kingdom",Education,"Micro (<10 employees)","Data Scientist",,,,,,,,,,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
 "United Kingdom",Education,"Micro (<10 employees)","Data Scientist","Hadoop / MapReduce,R,Python,D3 / nvD3,MongoDB,NoSQL / Cassandra,Javascript / JQuery",3,3,2,3,2,3,3,3,not_required,desirable,desirable,essential,desirable,essential,essential,not_required,essential,essential,not_required,not_required,desirable,essential,desirable,not_required,desirable,desirable
 Spain,Education,"Large (250+ employees)",Manager,,4,4,4,4,2,4,4,3,desirable,essential,essential,desirable,desirable,essential,desirable,not_required,desirable,desirable,not_required,not_required,desirable,essential,not_required,not_required,essential,desirable
-Spain,Education,"Large (250+ employees)","Data Scientist",,desirable,desirable,2,3,3,desirable,2,2,not_required,not_required,not_required,desirable,desirable,desirable,essential,essential,desirable,essential,desirable,essential,essential,,not_required,not_required,desirable,essential
 ,,,Other,,,,,,,,,,desirable,not_required,not_required,essential,essential,not_required,desirable,desirable,,,,,,,,,,
-,,,Other,,,,,,,,,,not_required,not_required,desirable,not_required,desirable,essential,desirable,essential,,,,,,,,,,
 Germany,Education,"Large (250+ employees)",Manager,,4,4,3,2,2,4,4,4,desirable,desirable,desirable,desirable,essential,essential,essential,not_required,,,,,,,,,,
 Sweden,"Finance and insurance services","SME (10 to 250 employees)","Data Scientist",,4,4,3,4,3,3,3,4,desirable,essential,desirable,desirable,essential,essential,essential,desirable,,,,,,,,,,
-Sweden,"Finance and insurance services","SME (10 to 250 employees)","Data Scientist",,4,4,3,4,3,4,3,4,desirable,desirable,desirable,desirable,essential,essential,essential,desirable,,,,,,,,,,
 Greece,"Business administration services",Individual,"Data Scientist",,2,2,3,3,3,3,3,3,not_required,desirable,essential,essential,essential,desirable,desirable,desirable,,,,,,,,,,
 Serbia,"Business administration services","Micro (<10 employees)","Data Scientist",SQL,,,,,,,,,,,,,,,,,,,,,,,,,,
-Poland,"Scientific and market research",Individual,"Data Scientist",,2,1,2,3,3,3,3,2,desirable,desirable,essential,essential,essential,desirable,desirable,desirable,,,,,,,,,,
 Spain,Education,Individual,"Data Scientist",,1,1,3,2,2,1,1,1,desirable,not_required,desirable,essential,essential,desirable,essential,not_required,,,,,,,,,,
 Netherlands,"Finance and insurance services","Micro (<10 employees)",Manager,"ProM or Disco",4,4,4,3,4,3,3,2,desirable,essential,desirable,desirable,essential,essential,desirable,desirable,not_required,desirable,essential,desirable,essential,desirable,not_required,not_required,desirable,essential
 France,,,Other,,,,,,,,,,,,,,,,,,,,,,,,desirable,,,
-"United Kingdom",Education,"Large (250+ employees)","Data Scientist",,1,1,1,2,2,2,1,3,not_required,desirable,desirable,essential,essential,desirable,essential,desirable,,,,,,,,,,
-Italy,"Business administration services","Large (250+ employees)",Manager,,4,4,3,5,3,5,5,5,desirable,desirable,desirable,essential,desirable,essential,essential,desirable,,,,,,,,,,
-Malta,"Data and information systems","SME (10 to 250 employees)","Data Scientist",,3,4,3,5,4,4,2,3,desirable,essential,essential,essential,essential,desirable,not_required,desirable,,,,,,,,,,
-Malta,"Finance and insurance services","SME (10 to 250 employees)","Data Scientist",,3,3,3,4,3,4,4,4,desirable,essential,desirable,essential,desirable,desirable,essential,desirable,,,,,,,,,,
-Italy,"Consumer services","Large (250+ employees)",Manager,,3,2,4,4,4,3,4,4,essential,essential,essential,essential,essential,essential,essential,desirable,,,,,,,,,,
-Netherlands,Manufacturing,"Large (250+ employees)",Manager,,3,4,4,4,4,3,3,2,not_required,desirable,desirable,essential,desirable,essential,desirable,not_required,,,,,,,,,,
-Netherlands,"Public administration and defence","Large (250+ employees)",Manager,,4,2,4,4,5,2,4,4,desirable,desirable,desirable,essential,essential,desirable,essential,essential,,,,,,,,,,
-Belgium,Mining,"Large (250+ employees)",Manager,,3,4,4,4,4,2,3,3,not_required,essential,essential,essential,essential,desirable,desirable,desirable,,,,,,,,,,
-Spain,"Finance and insurance services","Large (250+ employees)","Data Scientist",,1,4,5,5,5,4,3,3,not_required,desirable,essential,essential,essential,essential,desirable,desirable,,,,,,,,,,
-Portugal,"Human health and social work","Large (250+ employees)",Manager,,5,5,5,5,5,5,5,5,not_required,not_required,desirable,essential,desirable,essential,desirable,desirable,,,,,,,,,,
-Portugal,"Data and information systems","Large (250+ employees)",Manager,,5,2,3,3,3,4,3,4,essential,essential,desirable,desirable,not_required,desirable,desirable,desirable,,,,,,,,,,
-Romania,"Data and information systems","Large (250+ employees)","Data Scientist",,4,2,4,5,5,5,4,4,desirable,desirable,essential,desirable,essential,essential,essential,desirable,,,,,,,,,,
-Romania,"Scientific and market research","Large (250+ employees)",Manager,,5,2,3,4,2,5,5,2,essential,desirable,essential,essential,desirable,essential,essential,desirable,,,,,,,,,,
-Germany,"Scientific and market research","Large (250+ employees)",Manager,,4,3,3,5,3,2,5,3,essential,desirable,essential,essential,essential,not_required,essential,essential,,,,,,,,,,
-Sweden,"Professional services","Large (250+ employees)","Data Scientist",,4,4,5,5,5,2,2,3,desirable,desirable,desirable,essential,desirable,essential,essential,not_required,,,,,,,,,,
-Spain,"Professional services","Large (250+ employees)",Manager,,5,5,5,5,5,5,5,5,desirable,essential,desirable,essential,desirable,desirable,essential,desirable,,,,,,,,,,
-Spain,"Scientific and market research","SME (10 to 250 employees)",Manager,,1,1,1,1,1,1,1,1,essential,essential,essential,essential,essential,essential,essential,essential,,,,,,,,,,
-Spain,"Scientific and market research","SME (10 to 250 employees)",Manager,,4,3,5,5,5,5,5,4,desirable,essential,essential,essential,essential,essential,essential,essential,,,,,,,,,,
-Germany,"Data and information systems","SME (10 to 250 employees)","Data Scientist",,5,5,2,4,4,4,4,4,desirable,essential,not_required,essential,essential,essential,essential,desirable,,,,,,,,,,
-UK,"Scientific and market research","SME (10 to 250 employees)",Manager,,4,5,3,5,5,4,5,5,desirable,essential,not_required,essential,essential,desirable,essential,essential,,,,,,,,,,
-Sweden,"Scientific and market research","SME (10 to 250 employees)","Data Scientist",,3,5,4,5,1,5,2,3,desirable,essential,essential,essential,not_required,essential,desirable,desirable,,,,,,,,,,
-Spain,"Public administration and defence","Large (250+ employees)",Manager,,3,4,4,5,4,2,3,5,essential,essential,desirable,essential,desirable,desirable,desirable,not_required,,,,,,,,,,
-UK,Energy,"Large (250+ employees)",Manager,,4,4,4,4,5,5,4,5,essential,essential,essential,essential,essential,essential,essential,essential,,,,,,,,,,
-UK,Energy,"Large (250+ employees)","Data Scientist",,3,2,2,5,5,4,3,2,desirable,desirable,not_required,essential,essential,essential,essential,not_required,,,,,,,,,,
-Germany,"Data and information systems","SME (10 to 250 employees)","Data Scientist",,4,4,1,5,2,2,3,3,essential,essential,essential,essential,essential,essential,essential,desirable,,,,,,,,,,
-,Energy,"SME (10 to 250 employees)",Manager,,4,4,3,5,4,2,4,5,essential,essential,essential,essential,desirable,desirable,desirable,essential,,,,,,,,,,
-Greece,"Scientific and market research","SME (10 to 250 employees)","Data Scientist",,4,4,2,5,4,5,3,4,desirable,essential,not_required,essential,essential,essential,essential,desirable,,,,,,,,,,
-UK,"Human health and social work","SME (10 to 250 employees)",Manager,,5,4,4,5,3,3,4,5,desirable,desirable,essential,essential,desirable,desirable,essential,essential,,,,,,,,,,
-Ireland,"Public administration and defence","SME (10 to 250 employees)","Data Scientist",,5,4,4,3,5,5,3,5,desirable,essential,desirable,essential,essential,essential,desirable,essential,,,,,,,,,,
-Spain,"Scientific and market research","SME (10 to 250 employees)",Manager,,4,3,2,3,4,3,,4,essential,essential,not_required,essential,essential,essential,essential,essential,,,,,,,,,,
-Germany,"Human health and social work","SME (10 to 250 employees)","Data Scientist",,5,4,2,4,3,4,4,4,essential,essential,essential,essential,desirable,essential,essential,essential,,,,,,,,,,
-Italy,"Scientific and market research",,"Data Scientist",,3,3,1,4,5,1,4,4,essential,essential,not_required,essential,essential,desirable,essential,essential,,,,,,,,,,
-Slovenia,"Scientific and market research","SME (10 to 250 employees)",Manager,,4,3,4,5,5,5,4,5,desirable,desirable,essential,essential,desirable,essential,desirable,desirable,,,,,,,,,,
-Slovenia,"Scientific and market research","SME (10 to 250 employees)",Manager,,,,,,,,,,desirable,,essential,essential,essential,essential,essential,essential,,,,,,,,,,
-Spain,Education,"SME (10 to 250 employees)",Manager,,3,3,3,4,4,3,4,3,desirable,desirable,,desirable,desirable,essential,essential,desirable,,,,,,,,,,
-Poland,Energy,,Manager,,,,,,,,,,,essential,,desirable,not_required,,,,,,,,,,,,,
 Poland,"Public administration and defence","Large (250+ employees)",Manager,"Open Refine,Python,D3 / nvD3,R,Sparql",,,,3,3,,,,,,,essential,desirable,not_required,,,,,,desirable,,essential,,not_required,,
-Austria,"Data and information systems","Large (250+ employees)",Manager,"Hadoop / MapReduce,Python,Apache Storm,Apache Flink,Spark",,,,,,,,,,,,,,,,,,,,,,,,,,
 "United Kingdom",Education,"SME (10 to 250 employees)",Manager,"AWS,Spark,R,Python,D3 / nvD3,Hadoop / MapReduce,NoSQL / Cassandra",1,1,2,3,3,3,4,2,desirable,desirable,essential,essential,essential,essential,essential,desirable,desirable,desirable,desirable,essential,desirable,essential,,desirable,desirable,desirable
 "United Kingdom","Professional services","SME (10 to 250 employees)",Manager,,,,,,,,,,desirable,essential,essential,essential,essential,essential,desirable,essential,,,,,,,,,,
 "United Kingdom","Data and information systems","Large (250+ employees)","Data Scientist",,,,,,,,,,desirable,desirable,desirable,essential,essential,desirable,essential,desirable,,,,,,,,,,
-France,"Data and information systems","Large (250+ employees)","Data Scientist","R,Python,Java,Spark,Hadoop / MapReduce,AWS",3,3,4,3,4,4,4,2,essential,essential,desirable,desirable,desirable,essential,essential,desirable,desirable,essential,essential,essential,essential,essential,desirable,essential,desirable,essential
 Portugal,Education,"Large (250+ employees)","Data Scientist",,4,4,2,4,3,4,3,4,desirable,essential,desirable,essential,desirable,essential,desirable,desirable,,,,,,,,,,
 France,"Data and information systems","SME (10 to 250 employees)","Data Scientist","Python,R,MongoDB",2,2,3,3,3,3,4,3,desirable,not_required,essential,essential,essential,desirable,essential,desirable,essential,essential,desirable,desirable,essential,not_required,desirable,not_required,essential,essential
-"United Kingdom",,"Large (250+ employees)","Data Scientist",R,,,,4,3,,3,,,,,essential,desirable,,essential,,essential,essential,,,,desirable,,,desirable,desirable
 Malta,Education,"Large (250+ employees)","Data Scientist",,desirable,1,1,3,2,3,1,3,not_required,desirable,desirable,essential,desirable,essential,desirable,essential,,,,,,,,,,
-Germany,Construction,"Large (250+ employees)","Data Scientist","R,Python,D3 / nvD3,Spark,Microsoft Azure ML,GraphLab Create",3,2,2,2,2,3,3,3,desirable,desirable,essential,desirable,essential,essential,desirable,desirable,,desirable,,not_required,desirable,desirable,not_required,,,essential
 Norway,Energy,"SME (10 to 250 employees)","Data Scientist","AWS,Javascript / JQuery,Python",2,1,1,3,3,2,2,1,desirable,desirable,not_required,essential,essential,desirable,essential,not_required,essential,essential,desirable,essential,desirable,desirable,desirable,not_required,desirable,not_required
+Greece,"Public administration and defence","Large (250+ employees)","Data Scientist","z-scores,NoSQL / Cassandra,sql,matlab",3,2,2,3,2,3,3,2,essential,essential,desirable,essential,desirable,essential,essential,essential,,,,,,,,,,
+Denmark,Education,"Large (250+ employees)",Manager,"Spark,Hadoop / MapReduce,R,Python,AWS",3,4,1,2,desirable,2,4,1,desirable,essential,not_required,desirable,not_required,desirable,essential,not_required,essential,essential,desirable,essential,essential,desirable,not_required,desirable,not_required,not_required
+Austria,"Data and information systems","Micro (<10 employees)","Data Scientist","R,Python,Hadoop / MapReduce,NoSQL / Cassandra,Apache Storm,MongoDB,Spark,Java",3,1,2,4,4,2,4,2,desirable,desirable,not_required,essential,essential,essential,essential,desirable,essential,essential,desirable,desirable,essential,desirable,not_required,not_required,essential,essential
+Cyprus,"Wholesale and retail","SME (10 to 250 employees)","Data Scientist",,1,1,2,2,3,1,1,2,desirable,essential,essential,desirable,essential,not_required,essential,essential,,,,,,,,,,
